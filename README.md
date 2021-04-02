@@ -1,5 +1,5 @@
 # Free Myanmar 
-This is an SVG layered on tp of an elliptical radial gradient CSS background.
+This is an SVG layered on top of an elliptical radial gradient CSS background.
 
 The SVG comprises of:
 - FREE MYANMAR text in Impact font
